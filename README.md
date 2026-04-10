@@ -2,7 +2,7 @@
 
 <h1 align="center"> A Rota da Acadêmica: PINN </h1>
 
-Este repositório é referência à entrega "A Rota da Acadêmica" da matéria de Redes Neurais e Algoritmos Genéticos no terceiro semestre da graduação da Ilum.
+Este repositório é referente à entrega "A Rota da Acadêmica" da matéria de Redes Neurais e Algoritmos Genéticos no terceiro semestre da graduação da Ilum.
 
 a continuar...
 
